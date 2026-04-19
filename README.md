@@ -13,9 +13,10 @@ Outil : Power BI Desktop
 
 📊 Aperçu du Dashboard
 Page 1 — Vue d'ensemble géographique
-Afficher l'image
+<img width="1274" height="712" alt="image" src="https://github.com/user-attachments/assets/9eaa8a55-43a6-4b0c-80fc-2ff952a45546" />
+
 Page 2 — Analyse comportementale & facteurs de risque
-Afficher l'image
+<img width="1274" height="712" alt="image" src="https://github.com/user-attachments/assets/f3797a47-fb71-4d4e-8ace-5f5c15845fc3" />
 
 🗂️ Structure du rapport (2 pages)
 Page 1 — Vue d'ensemble
