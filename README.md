@@ -16,7 +16,7 @@ Page 1 — Vue d'ensemble géographique
 <img width="1274" height="712" alt="image" src="https://github.com/user-attachments/assets/9eaa8a55-43a6-4b0c-80fc-2ff952a45546" />
 
 Page 2 — Analyse comportementale & facteurs de risque
-<img width="1274" height="712" alt="image" src="https://github.com/user-attachments/assets/f3797a47-fb71-4d4e-8ace-5f5c15845fc3" />
+<img width="1273" height="712" alt="image" src="https://github.com/user-attachments/assets/f527b3e7-4695-4078-aa83-727c195fead6" />
 
 🗂️ Structure du rapport (2 pages)
 Page 1 — Vue d'ensemble
