@@ -44,3 +44,15 @@ Le manque de sommeil est corrélé à un score de bonheur plus faible
 Le niveau de stress "Low" est associé aux scores de bonheur les plus élevés, toutes conditions confondues
 La répartition des régimes alimentaires est quasi-uniforme (~20% chacun), sans influence notable isolée
 Les individus atteints de PTSD avec un faible niveau de stress affichent paradoxalement un score de bonheur plus élevé (1 189)
+
+📁 Contenu du repo
+📦 dashboard-sante-mentale-powerbi
+ ┣ 📂 screenshots/
+ ┃ ┣ 📄 page1.png
+ ┃ ┗ 📄 page2.png
+ ┣ 📄 DM2_BERRABAH_Nassim.pbix   ← Fichier Power BI
+ ┗ 📄 README.md
+
+👤 Auteur
+Nassim Berrabah — BUT Informatique, Sciences des Données
+IUT de Villetaneuse, Université Sorbonne Paris Nord
