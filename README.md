@@ -18,7 +18,7 @@ Page 1 — Vue d'ensemble géographique
 Page 2 — Analyse comportementale & facteurs de risque
 <img width="1273" height="712" alt="image" src="https://github.com/user-attachments/assets/f527b3e7-4695-4078-aa83-727c195fead6" />
 
-🗂️ Structure du rapport (2 pages)
+## 🗂️ Structure du rapport (2 pages)
 Page 1 — Vue d'ensemble
 
 KPI : Nombre total d'individus (3 000), Score de Bonheur moyen (5,40), âge min/max
