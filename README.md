@@ -47,11 +47,9 @@ Les individus atteints de PTSD avec un faible niveau de stress affichent paradox
 
 📁 Contenu du repo
 📦 dashboard-sante-mentale-powerbi
- ┣ 📂 screenshots/
- ┃ ┣ 📄 page1.png
- ┃ ┗ 📄 page2.png
- ┣ 📄 DM2_BERRABAH_Nassim.pbix   ← Fichier Power BI
- ┗ 📄 README.md
+ - 📄 rapport.pbix   ← Fichier Power BI
+ - 📄 rapport.pdf
+ - 📄 README.md
 
 👤 Auteur
 Nassim Berrabah — BUT Informatique, Sciences des Données
