@@ -45,7 +45,7 @@ Le niveau de stress "Low" est associé aux scores de bonheur les plus élevés, 
 La répartition des régimes alimentaires est quasi-uniforme (~20% chacun), sans influence notable isolée
 Les individus atteints de PTSD avec un faible niveau de stress affichent paradoxalement un score de bonheur plus élevé (1 189)
 
-📁 Contenu du repo
+📁 Contenu
 📦 dashboard-sante-mentale-powerbi
  - 📄 rapport.pbix   ← Fichier Power BI
  - 📄 rapport.pdf
